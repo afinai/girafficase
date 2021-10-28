@@ -27,8 +27,8 @@ http api :
 
 `"DELETE" http://server_address/rem_traffic_point?point=point_address => HTTP_OK/HTTP_BAD_REQUEST`
 
-`"GET"    http://server_address/traffic_point_lossespoint=point_address =>
-
+`"GET"    http://server_address/traffic_point_lossespoint=point_address =>`
+json
 {
 	"point" : "point_address",
 	
@@ -37,7 +37,7 @@ http api :
 		"average" : "50",
 		"current" : "60"
 	}
-}`
+}
 		
 ## Protocol
 See [schema](src/messages/schema/giraffic.fbs)
