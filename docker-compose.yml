@@ -1,0 +1,12 @@
+version: '2'
+services:
+
+  giraffic:
+    build: .
+    image: giraffic
+    volumes:
+       - "./config/giraffic.json:/root/bin/giraffic.json"
+    ports:
+      - '1024:1024'
+      - '10500:10500'
+      - '10501:10501'

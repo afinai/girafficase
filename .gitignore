@@ -1,32 +1,19 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+build/
+.vs/CMake Overview
+.vs/ProjectSettings.json
+.vs/girafficcase/v16/.suo
+.vs/girafficcase/v16/Browse.VC.db
+.vs/girafficcase/v16/Browse.VC.db-shm
+.vs/girafficcase/v16/Browse.VC.db-wal
+.vs/girafficcase/v16/Browse.VC.opendb
+.vs/girafficcase/v16/ipch/AutoPCH/2fa1e60f1eccde31/SERVER.ipch
+.vs/girafficcase/v16/ipch/AutoPCH/611a3a7d261a29b6/TEST.ipch
+.vs/girafficcase/v16/ipch/AutoPCH/6e2672bc2a28d6d1/SERVER.ipch
+.vs/girafficcase/v16/ipch/AutoPCH/f4b57ec96d10d27e/TEST.ipch
+.vs/girafficcase/v16/ipch/AutoPCH/f65333a467c7a338/APP.ipch
+.vs/girafficcase/v16/ipch/AutoPCH/f98c8d550bf37118/APP.ipch
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+/.vs/girafficcase/v16/ipch/AutoPCH
+/.vs
+/CMakeSettings.json

@@ -1,0 +1,8 @@
+{
+	"logger_level": "info",
+	"logger_sink": "console",
+	"udp_server": "localhost:20200",
+	"udp_packet_delay" : "1",
+	"udp_packets_window" : "8",
+	"udp_packets_gape" : "1"
+}

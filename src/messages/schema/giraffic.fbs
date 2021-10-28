@@ -1,0 +1,7 @@
+namespace giraffic_messages;
+
+table udp_request {
+    id:ulong;
+}
+
+root_type udp_request;

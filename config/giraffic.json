@@ -1,0 +1,12 @@
+{
+	"logger_level": "info",
+	"logger_sink": "console",
+	"http_server": "localhost:10501",
+	"max_traffic_points" : "16",
+	"traffic_packet_delay" : "1",
+	"traffic_packets_window" : "8"
+	"traffic_packets_slice" : "2"
+	"max_prime_number" : "10005000",
+	"max_prime_portion" : "10000",
+	"max_prime_workers" : "4"
+}
