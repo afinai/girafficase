@@ -21,10 +21,13 @@ See `tests` folder
 ## Usage
 http api :
 "GET"    http://server_address/is_prime?number=100200 => HTTP_OK/425
+
 "PUT"    http://server_address/add_traffic_point?point=point_address => HTTP_OK/HTTP_BAD_REQUEST
+
 "DELETE" http://server_address/rem_traffic_point?point=point_address => HTTP_OK/HTTP_BAD_REQUEST
+
 "GET"    http://server_address/traffic_point_lossespoint=point_address =>
-json :
+
 {
 	"point" : "point_address",
 	
